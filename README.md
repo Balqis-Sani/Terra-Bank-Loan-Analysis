@@ -36,3 +36,5 @@ Anticipate the seasonal surge in loan demand during spring by designing marketin
 
 Capitalize on the spring season with refined customer outreach:
 Ensure marketing efforts are backed by thorough market research to identify high-demand regions and customer segments. Use personalized messaging, seasonal promotions, and educational campaigns to attract new borrowers while addressing their financial concerns effectively. This dual approach can maximize customer engagement and loan approvals during the peak season
+# Project Link
+https://drive.google.com/drive/folders/1mj05rb8oQMEeUnGXOOLqTBtmVbImdgmR?usp=drive_link
