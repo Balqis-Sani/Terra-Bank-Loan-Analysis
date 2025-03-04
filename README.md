@@ -1,40 +1,42 @@
-# Terra-Bank-Loan-Analysis
-This project involved analyzing a loan dataset to uncover key trends and insights related to customer demographics, loan demand, and repayment behaviors .
-# OBSERVATIONS
+# Terra-Bank-Loan
+This project analyzed loans disbursed by Terra Bank to uncover key trends and insights related to customer demographics, loan demand, and repayment behaviors
 
-Canada recorded the highest number of loan applications among all regions, indicating a strong demand for financial support, potentially driven by unique economic factors in the area.
-
-Most loan applicants were renters rather than homeowners, suggesting that renters may face greater financial pressures or have less access to assets, prompting them to seek loans more frequently.
-
-A significant portion of the bank’s borrowers have fully repaid their loans, reflecting high repayment rates. This demonstrates responsible borrowing behavior and highlights the effectiveness of the bank’s screening and repayment policies.
-
-Debt consolidation emerged as the primary reason for taking out loans, far surpassing other purposes. This indicates a growing trend of borrowers seeking to simplify or manage existing debts through financial reorganization.
-
-The month of May experienced the highest number of loan applications, pointing to a seasonal increase in financial needs or pressures during the spring.
-
-The vast majority of loans were granted with verified payment statuses, while only a small percentage were unverified. This emphasizes the bank’s focus on maintaining creditworthiness and mitigating risk through thorough verification processes.
-
+# KEY INSIGHTS
+1. In 2011, the highest loan amount of $206,506,575 was disbursed, while the lowest loan amount of $2,219,275 was issued in the year 200. This explains why 2011 had the highest number of debtors 
+(21,656), compared to only 21 in 200.
+2.  Grade G loans received the highest interest rate of 21.40%, while Grade A loans had the lowest at 7.34%.
+3. Canada recorded the highest total loan amount of $80 million and also had the largest number of debtors, totaling 7,099.
+4. Grade B received the highest loan amount of $134 million, whereas Grade G had the lowest, with only $6 million disbursed, which may be attributed to its high interest rate of 21.40%. The high cost of borrowing could have discouraged applicants, while lenders may have also restricted loan amounts due to higher default risks.
+5. Loans with a 60-month term had a higher average interest rate (14.81%) compared to 36-month loans, which had a lower rate of 11%.
+6. A total of 32,950 debtors fully repaid their loans, 5,627 loans were charged off, and 1,140 remain in current status.
+7. Among all debtors, 16,921 loans were verified, 12,809 were not verified, and 9,987 were source-verified.
  
- 
-
 # RECOMMENDATIONS
+1.)Insight: In 2011, the highest loan amount of $206,506,575 was disbursed, while the lowest of $2,219,275 was issued in 200. This explains why 2011 had the highest number of debtors (21,656), 
+compared to only 21 in 2007.
+Recommendation: Analyze what factors led to the high loan disbursement in 2011 (e.g., economic policies, lower interest rates, or increased lender confidence). If favorable, consider replicating 
+those strategies to boost lending in future years.
 
-Conduct an in-depth analysis of loan applicants in Canada:
-Delve deeper into the dataset to identify specific factors influencing the high demand for loans, such as income levels, employment sectors, credit history, and regional economic conditions. This analysis will help pinpoint key customer demographics and behaviors driving loan applications.
+2.)Insight: Grade G loans received the highest interest rate of 21.40%, while Grade A loans had the lowest at 7.34%.
+ -Recommendation: Consider adjusting interest rates for Grade G to make loans more attractive while balancing risk. Offering incentives like collateral-backed loans or gradual rate reductions for 
+on-time payments may help increase borrowing.
 
-Develop tailored loan products for renters:
-Recognize that renters often face unique financial challenges, such as limited savings for upfront payments or higher living expenses. Create loan products designed specifically to meet their needs, offering flexible repayment plans, lower initial costs, or financial education initiatives to empower them.
+3.)Insight: Canada recorded the highest total loan amount of $80 million and also had the largest number of debtors, totaling 7,099.
+-Recommendation: Investigate what made Canada a top-performing region—whether due to favorable loan policies, economic conditions, or borrower creditworthiness. If possible, apply similar 
+strategies in lower-performing regions.
 
-Enhance existing repayment policies:
-Strengthen current repayment frameworks to sustain high repayment rates by incorporating more robust borrower screening processes and risk assessment tools. Focus on fostering responsible borrowing through personalized repayment plans, automated reminders, and customer support resources to encourage timely repayments.
+4.)Insight: Grade B received the highest loan amount of $134 million, whereas Grade G had the lowest, with only $6 million disbursed.
+-Recommendation: Assess why Grade B is preferred and use similar risk assessment models for lower grades. Offering customized repayment plans for Grade G borrowers may encourage more 
+lending while managing risk.
 
-Introduce specialized debt consolidation solutions:
-Develop debt consolidation products to serve customers managing multiple debts. By offering lower interest rates and simplified repayment schedules, these products can help clients regain control of their finances, thereby increasing customer satisfaction and loyalty.
+5.)Insight: Loans with a 60-month term had a higher average interest rate (14.81%) compared to 36-month loans, which had a lower rate of 11%.
+ Recommendation: To encourage longer-term borrowing, consider reducing interest rates slightly for 60-month loans or offering incentives like lower monthly payments to make them more 
+attractive.
 
-Plan targeted marketing and support campaigns for the spring season:
-Anticipate the seasonal surge in loan demand during spring by designing marketing strategies that address specific customer needs. Focus on highlighting loan products tailored for common spring expenses, such as home renovations, tuition, or travel. Additionally, provide comprehensive support to guide customers through the application process and improve their overall experience.
+6.)Insight: A total of 32,950 debtors fully repaid their loans, 5,627 loans were charged off, and 1,140 remain in current status.
+Recommendation: Identify patterns in charged-off loans (e.g., borrower profiles, loan terms) and implement stronger risk assessment or early intervention strategies (e.g., automated payment 
+reminders, restructuring options) to reduce defaults.
 
-Capitalize on the spring season with refined customer outreach:
-Ensure marketing efforts are backed by thorough market research to identify high-demand regions and customer segments. Use personalized messaging, seasonal promotions, and educational campaigns to attract new borrowers while addressing their financial concerns effectively. This dual approach can maximize customer engagement and loan approvals during the peak season
-# Project Link
-https://drive.google.com/drive/folders/1mj05rb8oQMEeUnGXOOLqTBtmVbImdgmR?usp=drive_link
+7.)  Insight: Among all debtors, 16,921 loans were verified, 12,809 were not verified, and 9,987 were source-verified.
+-Recommendation: Strengthen the verification process to reduce the number of unverified loans, which could pose higher risks. Encouraging source verification may improve lender confidence 
+and reduce default rates
